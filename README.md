@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenan Hodžić
-- 👀 I’m interested in learning web development 
+- 👀 I’m interested in software engineering, web development 
 - 🌱 I’m currently learning MERN stack and some other things
 - 💞️ I’m looking to collaborate on interesting projects where I can give my full potential
 - 📫 My Email adress: khodzic282@icloud.com
